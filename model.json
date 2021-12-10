@@ -1,6 +1,7 @@
 {
   ":name": "MSS Week Quiz",
   ":description": "Sina Sofola 2021 Quiz questions",
+  ":items": {
   "id": {
     ":description": "Question ID",
     ":type": "line"
@@ -28,5 +29,6 @@
   "optE": {
     ":description": "Options",
     ":type": "line"
+  }
   }
 }
