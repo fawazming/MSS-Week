@@ -1,6 +1,38 @@
 {
   "questions": [
     {
+      "id": "10",
+      "question": "If Cos x = 5 /13 where 1800  < x < 2700 , what is the value of Tan x – Sin x",
+      "optA": "96/65",
+      "optB": "321/65",
+      "optC": "214/65",
+      "optD": "131/65"
+    },
+    {
+      "id": "9",
+      "question": "Find y if Sin y = Cos 480",
+      "optA": "21deg",
+      "optB": "24deg",
+      "optC": "42deg",
+      "optD": "48deg"
+    },
+    {
+      "id": "8",
+      "question": "Increase 135 in the ratio of 3:5",
+      "optA": "225",
+      "optB": "216",
+      "optC": "143",
+      "optD": "140"
+    },
+    {
+      "id": "7",
+      "question": "Evaluate 4610eight - 2675eight.",
+      "optA": "1713eight",
+      "optB": "1731eight",
+      "optC": "1735eight",
+      "optD": "1935eight"
+    },
+    {
       "id": "6",
       "question": "Construct a quadratic equation whose roots are -2 and 7.",
       "optA": "x2  – 5x – 14 = 0",
