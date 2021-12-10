@@ -1,6 +1,60 @@
 {
   "questions": [
     {
+      "id": "9",
+      "question": "One of the following is not a quality of Prophet Muhammad (S.A.W)",
+      "optA": "Bias",
+      "optB": "Foresight",
+      "optC": "Honesty",
+      "optD": "Justice",
+      "optE": "Patience"
+    },
+    {
+      "id": "8",
+      "question": "Which Caliph used to disguised at night, moving from door to door to find out the situation of the ordinary people?",
+      "optA": "Abdu Bakr bn Abi Quhafah",
+      "optB": "Aliyu bn Abi Tali",
+      "optC": "Marwan bn Hakam",
+      "optD": "Umar bn Khatta",
+      "optE": "Uthman bn Affan"
+    },
+    {
+      "id": "7",
+      "question": "The Hijrah calendar was introduced by _______",
+      "optA": "Abu Bakr",
+      "optB": "Aliyu",
+      "optC": "Mu'awiyyah",
+      "optD": "Umar",
+      "optE": "Uthman"
+    },
+    {
+      "id": "6",
+      "question": "How many children did Khadijah have for the Prophet Muhammad (S.A.W)?",
+      "optA": "4",
+      "optB": "6",
+      "optC": "7",
+      "optD": "8",
+      "optE": "10"
+    },
+    {
+      "id": "5",
+      "question": "The person sent to inform Quraysh about the Prophet's (S.A.W.) mission during Hudaybiyyah was",
+      "optA": "Abdu Bakr al-Siddiq",
+      "optB": "Aliyu bn Abi Talib",
+      "optC": "Bilal bn Rab",
+      "optD": "Umar bn Khattab",
+      "optE": "Uthman bn Affan"
+    },
+    {
+      "id": "4",
+      "question": "Which of the following is not among the al-Khulafa'ur Rashidun?",
+      "optA": "Abu Bakr al-Sidd",
+      "optB": "Aliyu bn Abi Talib",
+      "optC": "Bilal bn Rabah",
+      "optD": "Umar bn Khattab",
+      "optE": "Uthman bn Affan"
+    },
+    {
       "id": "3",
       "question": ". The Prophet (S.A.W.) together with ___________secluded in the cave of Thawr.",
       "optA": "Abbu Bakr",
