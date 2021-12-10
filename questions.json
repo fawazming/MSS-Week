@@ -1,6 +1,30 @@
 {
   "questions": [
     {
+      "id": "13",
+      "question": "Find the 9th term of an Arithmetic Progression 18, 12, 6, 0, -6, …?",
+      "optA": "-54",
+      "optB": "-30",
+      "optC": "30",
+      "optD": "42"
+    },
+    {
+      "id": "12",
+      "question": "Find the 4th term of an A.P whose first term is 2 and the common difference is 0.5.",
+      "optA": "0.5",
+      "optB": "2.5",
+      "optC": "3.5",
+      "optD": "4.5"
+    },
+    {
+      "id": "11",
+      "question": "Find a quadratic equation whose roots are -2 /3 and -1 /4.",
+      "optA": "12x2  - 11x + 2 = 0",
+      "optB": "12x2  - 11x - 2 = 0",
+      "optC": "12x2  + 11x - 2 = 0",
+      "optD": "12x2  + 11x + 2 = 0"
+    },
+    {
       "id": "10",
       "question": "If Cos x = 5 /13 where 1800  < x < 2700 , what is the value of Tan x – Sin x",
       "optA": "96/65",
