@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "19",
+      "question": ". A divorce at the instance of the Court is known as",
+      "optA": "zihar",
+      "optB": "faskh",
+      "optC": "Mubara'ah",
+      "optD": "khul"
+    },
+    {
       "id": "18",
       "question": "Hajj is divided into three _______",
       "optA": "ifrad ,tawaf, ihram",
