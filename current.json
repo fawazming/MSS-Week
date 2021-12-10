@@ -1,1 +1,16 @@
-{}
+{
+  "questions": [
+    {
+      "id": "3",
+      "question": "What is the world’s most populous country?"
+    },
+    {
+      "question": "Nigerians now celebrate Democracy Day when?",
+      "id": "1"
+    },
+    {
+      "question": "What is the name of Nigeria’s current Chief Justice?",
+      "id": "2"
+    }
+  ]
+}
