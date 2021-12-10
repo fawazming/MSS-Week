@@ -1,6 +1,38 @@
 {
   "questions": [
     {
+      "id": "17",
+      "question": "Find the value of x for which the expression (x - 5)(x - 2) OVER   x2  + x – 2 is zero.",
+      "optA": "x = -5 or 2",
+      "optB": "x = -5 or -2",
+      "optC": "x = 5 or 2",
+      "optD": "x = 5 or -2"
+    },
+    {
+      "id": "16",
+      "question": "The angles of a triangle are y, 3y and 5y. Find the value of y.",
+      "optA": "180deg",
+      "optB": "60deg",
+      "optC": "20deg",
+      "optD": "90deg"
+    },
+    {
+      "id": "15",
+      "question": "If Sin ϴ = 3 /5, find tan ϴ for 00  < ϴ < 900 .",
+      "optA": "4/5",
+      "optB": "3/4",
+      "optC": "5/8",
+      "optD": "1/2"
+    },
+    {
+      "id": "14",
+      "question": "If ₦560.70 is shared in the ratio 7:2:1. What is the smallest share?",
+      "optA": "₦392.49",
+      "optB": "₦56.70",
+      "optC": "₦113.40",
+      "optD": "₦56.07"
+    },
+    {
       "id": "13",
       "question": "Find the 9th term of an Arithmetic Progression 18, 12, 6, 0, -6, …?",
       "optA": "-54",
