@@ -1,1 +1,31 @@
-{}
+{
+  "questions": [
+    {
+      "id": "3",
+      "question": ". The Prophet (S.A.W.) together with ___________secluded in the cave of Thawr.",
+      "optA": "Abbu Bakr",
+      "optB": "Aliyu",
+      "optC": "Khadija",
+      "optD": "Umar",
+      "optE": "Uthman"
+    },
+    {
+      "id": "2",
+      "question": "The third article of faith is belief in _________",
+      "optA": "Allah",
+      "optB": "Angels",
+      "optC": "Books",
+      "optD": "Destiny",
+      "optE": "Messengers"
+    },
+    {
+      "id": "1",
+      "question": ". One of the following is the greatest sin in sight of Allah",
+      "optA": "fornication",
+      "optB": "insult",
+      "optC": "Polytheism",
+      "optD": "Robbery",
+      "optE": "Stealing"
+    }
+  ]
+}
