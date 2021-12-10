@@ -1,6 +1,68 @@
 {
   "questions": [
     {
+      "id": "18",
+      "question": "Hajj is divided into three _______",
+      "optA": "ifrad ,tawaf, ihram",
+      "optB": "quran ,tawaf , tamattu",
+      "optC": "ifrad ,tamattu qiran",
+      "optD": "tamattu , quran ,ifrad"
+    },
+    {
+      "id": "17",
+      "question": "Tatfif in transaction means ___________",
+      "optA": "bargaining and acceptance",
+      "optB": "bribery and corruption",
+      "optC": "buying and selling",
+      "optD": "cash and carry",
+      "optE": "cheating and fraud"
+    },
+    {
+      "id": "16",
+      "question": ". The preservation of Qur'an involved the following except",
+      "optA": "arrangement",
+      "optB": "compilation",
+      "optC": "recording",
+      "optD": "standardization",
+      "optE": "transliteration"
+    },
+    {
+      "id": "15",
+      "question": "The spiritual objective of Hajj is",
+      "optA": "forgiveness of sins and purifications of soul",
+      "optB": "o establish an  slamic State",
+      "optC": "to make no distinction",
+      "optD": "tolerance and forgiveness",
+      "optE": "unity of race and tribes."
+    },
+    {
+      "id": "14",
+      "question": "A Muslim should not marry the following women except",
+      "optA": "brother's daughter",
+      "optB": "father;s mother",
+      "optC": "father's sister",
+      "optD": "half sister",
+      "optE": "uncle's daughter"
+    },
+    {
+      "id": "13",
+      "question": "The da'wah of Muhammad (S.A.W) in Makkah contains all the following eхсept_____________",
+      "optA": "belief in the unity",
+      "optB": "complete obedience and submission to Allah",
+      "optC": "divine punishment for wrong doers",
+      "optD": "establishment of the Ummah",
+      "optE": "renunciation of idol worshipping"
+    },
+    {
+      "id": "12",
+      "question": "The significant effect of the treaty of Hudaybiyyah ___________was",
+      "optA": "that Muhammad (s.A.W) met his enemies face to face to a decisive battle",
+      "optB": "that Muslims were saved from the hands of the Quraysh oppressors",
+      "optC": "the postponement of the pilgrimage that year",
+      "optD": "the Quraysh granted freedom of worship to the Muslims for the time",
+      "optE": "the recognition accorded Muhammad (S.A.W) by the Quraysh."
+    },
+    {
       "id": "11",
       "question": ". The Caliph who contributed most to the expansion of the Islamic state was",
       "optA": "Abdu Bakr bn Abi  Quhafah",
