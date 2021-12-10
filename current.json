@@ -1,28 +1,56 @@
 {
   "questions": [
     {
+      "id": "64",
+      "question": "In Nigeria, where is the Kainji Dam?"
+    },
+    {
+      "question": "Middle Africa is made up of how many countries?",
+      "id": "63"
+    },
+    {
+      "question": "Who was the United States of America’s first president?",
+      "id": "62"
+    },
+    {
+      "id": "61",
+      "question": "What is the total number of members in Nigeria’s House of Representatives?"
+    },
+    {
+      "question": "How many senate districts are there in the 36 states?",
+      "id": "60"
+    },
+    {
+      "question": "The Nigerian National Assembly has a total of how many senators?",
+      "id": "59"
+    },
+    {
+      "id": "58",
+      "question": "When was Nigeria’s current president born?"
+    },
+    {
       "id": "57",
       "question": "What is the name of Nigeria’s current finance minister?"
     },
     {
-      "question": "What is the total number of continents in the world?",
-      "id": "56"
+      "id": "56",
+      "question": "What is the total number of continents in the world?"
     },
     {
-      "question": "What is the Nigerian Police Force’s motto?",
-      "id": "55"
+      "id": "55",
+      "question": "What is the Nigerian Police Force’s motto?"
     },
     {
       "id": "54",
       "question": "What is the world’s second most populous country?"
     },
     {
-      "question": "When was the Nigerian Airforce founded?",
-      "id": "53"
+      "id": "53",
+      "question": "When was the Nigerian Airforce founded?"
     },
     {
-      "question": "Which body is in charge of the Nigerian judiciary?",
-      "id": "52"
+      "id": "52",
+      "question": "Which body is in charge of the Nigerian judiciary?"
     },
     {
       "id": "51",
@@ -33,32 +61,32 @@
       "question": "In Nigeria, who was known as the “King of Afro Beat”?"
     },
     {
-      "id": "49",
-      "question": "When was Nigeria’s first refinery built?"
+      "question": "When was Nigeria’s first refinery built?",
+      "id": "49"
     },
     {
       "id": "48",
       "question": "How long does it take for the earth to rotate once?"
     },
     {
-      "id": "47",
-      "question": "Who is the current Chairman of INEC?"
+      "question": "Who is the current Chairman of INEC?",
+      "id": "47"
     },
     {
-      "id": "46",
-      "question": "What does the acronym NUPENA means?"
+      "question": "What does the acronym NUPENA means?",
+      "id": "46"
     },
     {
-      "id": "45",
-      "question": "Who was the first woman to be elected governor of Nigeria?"
+      "question": "Who was the first woman to be elected governor of Nigeria?",
+      "id": "45"
     },
     {
       "id": "44",
       "question": "Which Nigerian state has the fewest local government areas (LGAs)?"
     },
     {
-      "id": "43",
-      "question": "Who is Nigeria’s current Chief Justice?"
+      "question": "Who is Nigeria’s current Chief Justice?",
+      "id": "43"
     },
     {
       "question": "Who is Nigeria’s current Chief Justice?",
@@ -69,52 +97,52 @@
       "question": "Who is the NNPC’s current managing director?"
     },
     {
-      "question": "What is the total number of regional divisions in Africa?",
-      "id": "40"
+      "id": "40",
+      "question": "What is the total number of regional divisions in Africa?"
     },
     {
       "question": "What year did Facebook start?",
       "id": "39"
     },
     {
-      "question": "Who was Nigeria’s first Executive President?",
-      "id": "38"
+      "id": "38",
+      "question": "Who was Nigeria’s first Executive President?"
     },
     {
-      "id": "37",
-      "question": "What is Nigeria’s largest city?"
+      "question": "What is Nigeria’s largest city?",
+      "id": "37"
     },
     {
       "question": "Which of the following countries was the latest to declare independence from colonial rule?",
       "id": "36"
     },
     {
-      "question": "Which of Nigeria’s states has the most Local Government Areas?",
-      "id": "35"
+      "id": "35",
+      "question": "Which of Nigeria’s states has the most Local Government Areas?"
     },
     {
       "id": "34",
       "question": "What is the total number of Local Government Areas in Nigeria?"
     },
     {
-      "id": "33",
-      "question": "When did Nigerians start using paper money?"
+      "question": "When did Nigerians start using paper money?",
+      "id": "33"
     },
     {
-      "question": "What was Nigeria’s first political party?",
-      "id": "32"
+      "id": "32",
+      "question": "What was Nigeria’s first political party?"
     },
     {
-      "id": "31",
-      "question": "Who founded Nigeria’s first political party?"
+      "question": "Who founded Nigeria’s first political party?",
+      "id": "31"
     },
     {
       "question": "Who was colonial Nigeria’s first governor-general?",
       "id": "30"
     },
     {
-      "question": "Who was Nigeria’s first Senate President?",
-      "id": "29"
+      "id": "29",
+      "question": "Who was Nigeria’s first Senate President?"
     },
     {
       "id": "28",
@@ -125,24 +153,24 @@
       "question": "What is the world’s smallest continent?"
     },
     {
-      "question": "Who is Nigeria’s current Senate President?",
-      "id": "26"
+      "id": "26",
+      "question": "Who is Nigeria’s current Senate President?"
     },
     {
-      "id": "25",
-      "question": "With which Western nation does Nigeria share borders?"
+      "question": "With which Western nation does Nigeria share borders?",
+      "id": "25"
     },
     {
-      "question": "Who was the founder of the Nigerian Council?",
-      "id": "24"
+      "id": "24",
+      "question": "Who was the founder of the Nigerian Council?"
     },
     {
       "question": "When did Nigeria cut ties with Israel diplomatically?",
       "id": "23"
     },
     {
-      "id": "22",
-      "question": "What is Africa’s tallest mountain?"
+      "question": "What is Africa’s tallest mountain?",
+      "id": "22"
     },
     {
       "id": "21",
@@ -157,20 +185,20 @@
       "question": "Who is the current Governor of Nigeria’s Central Bank?"
     },
     {
-      "question": "Who is the present caliph of Sokoto, the Sultan of Sokoto?",
-      "id": "18"
+      "id": "18",
+      "question": "Who is the present caliph of Sokoto, the Sultan of Sokoto?"
     },
     {
       "id": "17",
       "question": "Who was the first Inspector General of Police in Nigeria?"
     },
     {
-      "question": "What is the meaning of the acronym ICAO?",
-      "id": "16"
+      "id": "16",
+      "question": "What is the meaning of the acronym ICAO?"
     },
     {
-      "question": "What is the name of a 70th anniversary?",
-      "id": "15"
+      "id": "15",
+      "question": "What is the name of a 70th anniversary?"
     },
     {
       "id": "14",
@@ -185,20 +213,20 @@
       "question": "Who was Nigeria’s first president?"
     },
     {
-      "id": "11",
-      "question": "Who is Nigeria’s Power Minister?"
+      "question": "Who is Nigeria’s Power Minister?",
+      "id": "11"
     },
     {
       "id": "10",
       "question": "Who was the world’s first English dictionary author?"
     },
     {
-      "id": "9",
-      "question": "Who is Nigeria’s current House of Representatives Speaker?"
+      "question": "Who is Nigeria’s current House of Representatives Speaker?",
+      "id": "9"
     },
     {
-      "id": "8",
-      "question": "What African country was the first to declare independence?"
+      "question": "What African country was the first to declare independence?",
+      "id": "8"
     },
     {
       "id": "7",
@@ -221,12 +249,12 @@
       "question": "What is the world’s most populous country?"
     },
     {
-      "question": "Nigerians now celebrate Democracy Day when?",
-      "id": "1"
-    },
-    {
       "question": "What is the name of Nigeria’s current Chief Justice?",
       "id": "2"
+    },
+    {
+      "question": "Nigerians now celebrate Democracy Day when?",
+      "id": "1"
     }
   ]
 }
