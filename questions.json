@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "23",
+      "question": "Two fair dice are rolled together once. What is the probability that the sum of the outcome is at least 10?",
+      "optA": "1/12",
+      "optB": "5/36",
+      "optC": "1/6",
+      "optD": "1/4"
+    },
+    {
       "id": "22",
       "question": "What is the mode of the distribution 8, 10, 9, 9, 10, 8, 11, 8, 10, 9, 8 and 14?",
       "optA": "8",
