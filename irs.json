@@ -1,6 +1,24 @@
 {
   "questions": [
     {
+      "id": "11",
+      "question": ". The Caliph who contributed most to the expansion of the Islamic state was",
+      "optA": "Abdu Bakr bn Abi  Quhafah",
+      "optB": "Aliyu bn Abi Talib",
+      "optC": "Mu'awiyah| bn Abi Sufya",
+      "optD": "Umar ba Khattab",
+      "optE": "Uthman bn Affan"
+    },
+    {
+      "id": "10",
+      "question": ". Prophet Muhammad (S.A.W) was sent to the",
+      "optA": "Arabs",
+      "optB": "beleivers",
+      "optC": "faithful followers",
+      "optD": "poor only",
+      "optE": "universe"
+    },
+    {
       "id": "9",
       "question": "One of the following is not a quality of Prophet Muhammad (S.A.W)",
       "optA": "Bias",
