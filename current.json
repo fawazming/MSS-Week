@@ -1,6 +1,18 @@
 {
   "questions": [
     {
+      "id": "6",
+      "question": "What is the world’s second-largest continent?"
+    },
+    {
+      "question": "What is the name of Nigeria’s Inspector General of Police?",
+      "id": "5"
+    },
+    {
+      "question": "Who was the first female psychiatrist in Nigeria?",
+      "id": "4"
+    },
+    {
       "id": "3",
       "question": "What is the world’s most populous country?"
     },
