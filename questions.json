@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "32",
+      "question": "The bearing of a bird on a tree from a hunter on the ground is N72degE. What is the bearing of the hunter from the bird?",
+      "optA": "S18degE",
+      "optB": "S72degE",
+      "optC": "S18degW",
+      "optD": "S72degW"
+    },
+    {
       "id": "31",
       "question": "Express the true bearing of 250 as a compass bearing.",
       "optA": "N20degE",
