@@ -1,6 +1,70 @@
 {
   "questions": [
     {
+      "id": "31",
+      "question": "Express the true bearing of 250 as a compass bearing.",
+      "optA": "N20degE",
+      "optB": "S20degE",
+      "optC": "S70degW",
+      "optD": "S70degE"
+    },
+    {
+      "id": "30",
+      "question": "The bearing of a town Y from X is 1350 . What is the bearing of X from Y?",
+      "optA": "45deg",
+      "optB": "315deg",
+      "optC": "170deg",
+      "optD": "225deg"
+    },
+    {
+      "id": "29",
+      "question": ". A sales girl gave a change of ₦1.15 to a customer instead of ₦1.25. Calculate the percentage error.",
+      "optA": "10%",
+      "optB": "7%",
+      "optC": "8%",
+      "optD": "2.4%"
+    },
+    {
+      "id": "28",
+      "question": "If X = {1, 2, 3, 4}, Y = {3, 5, 6}, what is the values of (X∩Y) U Y.",
+      "optA": "{1, 2, 3, 4}",
+      "optB": "{3, 5, 6}",
+      "optC": "{3}",
+      "optD": "{1, 2, 4}"
+    },
+    {
+      "id": "27",
+      "question": "What is the common ration of the G.P; -36, 12, -4,…?",
+      "optA": "-3",
+      "optB": "-2 /3",
+      "optC": "-1 /3",
+      "optD": "1/3"
+    },
+    {
+      "id": "26",
+      "question": ". Two cards are drawn one after the other with replacement from a well shuffled ordinary desk of 52 playing cards containing 4 Aces. Find the probability that they are both Aces.",
+      "optA": "1/221",
+      "optB": "1/169",
+      "optC": "1/25",
+      "optD": "1/13"
+    },
+    {
+      "id": "25",
+      "question": ". Two fair dice are tossed together once. Find the probability that the total score is at most 4",
+      "optA": "1/12",
+      "optB": "1/9",
+      "optC": "5/36",
+      "optD": "1/6"
+    },
+    {
+      "id": "24",
+      "question": "What is the probability of having an odd number in a single toss of a fair die?",
+      "optA": "1/6",
+      "optB": "5/6",
+      "optC": "1/2",
+      "optD": "1/3"
+    },
+    {
       "id": "23",
       "question": "Two fair dice are rolled together once. What is the probability that the sum of the outcome is at least 10?",
       "optA": "1/12",
