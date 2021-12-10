@@ -1,6 +1,78 @@
 {
   "questions": [
     {
+      "id": "47",
+      "question": "Simplify √20 + √5 + √225",
+      "optA": "3√ 5",
+      "optB": "6√ 5",
+      "optC": "7√ 5",
+      "optD": "8√5"
+    },
+    {
+      "id": "46",
+      "question": ". Evaluate log10 25 + log10 32 - log10 8",
+      "optA": "0.2",
+      "optB": "2",
+      "optC": "100",
+      "optD": "10"
+    },
+    {
+      "id": "45",
+      "question": ". If y varies inversely as the square of x and y = ½ when x = 2, find the positive value of x when y = 18.",
+      "optA": "9",
+      "optB": "3",
+      "optC": "1/3",
+      "optD": "1/9"
+    },
+    {
+      "id": "44",
+      "question": "Find n if log2 4 + log2 7 - log2 n = 1",
+      "optA": "10",
+      "optB": "14",
+      "optC": "27",
+      "optD": "28"
+    },
+    {
+      "id": "43",
+      "question": "If tan Ө = ¾, for 1800  < Ө < 2700 , find the value of cos Ө",
+      "optA": "4/5",
+      "optB": "3/5",
+      "optC": "-4/5",
+      "optD": "-3/5"
+    },
+    {
+      "id": "42",
+      "question": "Find the quadratic equation whose roots are -2q and 5q",
+      "optA": "x2  + 3qx – 10q2  = 0",
+      "optB": "x2  + 3qx + 10q2  = 0",
+      "optC": "x2  - 3qx + 10q2  = 0",
+      "optD": "x2  - 3qx – 10q2  = 0"
+    },
+    {
+      "id": "41",
+      "question": "For what value of k is 4x2  – 12x + k a perfect square?",
+      "optA": "-9",
+      "optB": "-9/4",
+      "optC": "9/2",
+      "optD": "9"
+    },
+    {
+      "id": "40",
+      "question": "Simplify 1 /3 log 8 + 1 /3 log 64 – 2 log 6",
+      "optA": "log 2 /7",
+      "optB": "log 2",
+      "optC": "log 2 /9",
+      "optD": "log 9"
+    },
+    {
+      "id": "39",
+      "question": "Calculate the compound interest, if ₦120,000.00 is borrowed for 3 years at 16% per annum.",
+      "optA": "₦187,307.52",
+      "optB": "₦167,307.52",
+      "optC": "₦67,307.00",
+      "optD": "₦21,307.52"
+    },
+    {
       "id": "38",
       "question": "A ladder, 6m long leans against a vertical wall. The angle of depression from the top of the ladder is 60deg. How far is the foot of the ladder from the wall?",
       "optA": "3.3m",
