@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "6",
+      "question": "Construct a quadratic equation whose roots are -2 and 7.",
+      "optA": "x2  – 5x – 14 = 0",
+      "optB": "x2  + 5x – 14 = 0",
+      "optC": "x2  + 5x + 14 =",
+      "optD": "x2  – 5x + 14 = 0"
+    },
+    {
       "id": "5",
       "question": "Convert 223four to a number in base three.",
       "optA": ") 421three",
