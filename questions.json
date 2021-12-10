@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "22",
+      "question": "What is the mode of the distribution 8, 10, 9, 9, 10, 8, 11, 8, 10, 9, 8 and 14?",
+      "optA": "8",
+      "optB": "9",
+      "optC": "10",
+      "optD": "11"
+    },
+    {
       "id": "21",
       "question": "Find the mean of the distribution: 11, 21, 37, 48, 5, 16, 27, 31, 43, 29.",
       "optA": "24.8",
