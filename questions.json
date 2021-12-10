@@ -1,6 +1,22 @@
 {
   "questions": [
     {
+      "id": "38",
+      "question": "A ladder, 6m long leans against a vertical wall. The angle of depression from the top of the ladder is 60deg. How far is the foot of the ladder from the wall?",
+      "optA": "3.3m",
+      "optB": "3.2m",
+      "optC": "3.0m",
+      "optD": "2.3m"
+    },
+    {
+      "id": "37",
+      "question": "Evaluate (3√3 - √6)(√6 + 3√3)",
+      "optA": "21",
+      "optB": "16",
+      "optC": "12",
+      "optD": "9"
+    },
+    {
       "id": "36",
       "question": ". Simplify 24x6  ÷ 8x4 .",
       "optA": "3x4",
