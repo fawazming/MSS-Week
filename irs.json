@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "37",
+      "question": "___________ was the first person to call Adhan in Islam",
+      "optA": "Bilal bn Robaa",
+      "optB": "Aliy bn Abu-toolib",
+      "optC": "Umar bn Abdullah",
+      "optD": "Mus’ab bn Umair"
+    },
+    {
       "id": "36",
       "question": "The sacred mosque in Jerusalem is known as ____________",
       "optA": "Masjidul Kuba",
