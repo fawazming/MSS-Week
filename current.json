@@ -211,59 +211,115 @@
     },
     {
       "question": "What is the total number of regional divisions in Africa?",
-      "id": "40"
+      "id": "40",
+      "optA": "6",
+      "optB": "5",
+      "optC": "4",
+      "optD": "7"
     },
     {
       "id": "39",
-      "question": "What year did Facebook start?"
+      "question": "What year did Facebook start?",
+      "optA": "2000",
+      "optB": "2004",
+      "optC": "2020",
+      "optD": "2010"
     },
     {
       "id": "38",
-      "question": "Who was Nigeria’s first Executive President?"
+      "question": "Who was Nigeria’s first Executive President?",
+      "optA": "Dr. Nnamdi Azikwe",
+      "optB": "Alh. Tafawa Balewa",
+      "optC": "Alhaji Shehu Shagari",
+      "optD": "Mr Alvan Ikwoku"
     },
     {
       "id": "37",
-      "question": "What is Nigeria’s largest city?"
+      "question": "What is Nigeria’s largest city?",
+      "optA": "Abuja",
+      "optB": "Sagamu",
+      "optC": "Lagos",
+      "optD": "Port-Harcourt"
     },
     {
       "id": "36",
-      "question": "Which of the following countries was the latest to declare independence from colonial rule?"
+      "question": "Which of the following countries was the latest to declare independence from colonial rule?",
+      "optA": "Nigeria",
+      "optB": "China",
+      "optD": "Angola",
+      "optC": "Egypt"
     },
     {
       "id": "35",
-      "question": "Which of Nigeria’s states has the most Local Government Areas?"
+      "question": "Which of Nigeria’s states has the most Local Government Areas?",
+      "optA": "Ogun",
+      "optB": "Lagos",
+      "optC": "Kano",
+      "optD": "Niger"
     },
     {
       "id": "34",
-      "question": "What is the total number of Local Government Areas in Nigeria?"
+      "question": "What is the total number of Local Government Areas in Nigeria?",
+      "optA": "774",
+      "optB": "744",
+      "optC": "360",
+      "optD": "702"
     },
     {
       "id": "33",
-      "question": "When did Nigerians start using paper money?"
+      "question": "When did Nigerians start using paper money?",
+      "optA": "1914",
+      "optB": "1918",
+      "optC": "1960",
+      "optD": "2006"
     },
     {
       "id": "32",
-      "question": "What was Nigeria’s first political party?"
+      "question": "What was Nigeria’s first political party?",
+      "optA": "NNDP",
+      "optB": "ADP",
+      "optC": "APC",
+      "optD": "PDP"
     },
     {
       "id": "31",
-      "question": "Who founded Nigeria’s first political party?"
+      "question": "Who founded Nigeria’s first political party?",
+      "optA": "Obafemi Awolowo",
+      "optB": "Herbert Macaulay",
+      "optC": "Hugh Clifford",
+      "optD": "Olusegun Obasanjo"
     },
     {
       "id": "30",
-      "question": "Who was colonial Nigeria’s first governor-general?"
+      "question": "Who was colonial Nigeria’s first governor-general?",
+      "optA": "Authur Richard",
+      "optB": "Frederick Lugard",
+      "optC": "John Macpherson",
+      "optD": "Nnamdi Azikiwe"
     },
     {
       "question": "Who was Nigeria’s first Senate President?",
-      "id": "29"
+      "id": "29",
+      "optA": "Herbert Macaulay",
+      "optB": "Nnamdi Azikiwe",
+      "optC": "Obafemi Awolowo",
+      "optD": "Tafawa Balewa"
     },
     {
       "id": "28",
-      "question": "To what organization does the Economic Commission for Africa belong?"
+      "question": "To what organization does the Economic Commission for Africa belong?",
+      "optA": "UNO",
+      "optB": "AU",
+      "optC": "EFCC",
+      "optD": "SON"
     },
     {
       "question": "What is the world’s smallest continent?",
-      "id": "27"
+      "id": "27",
+      "optA": "Africa",
+      "optB": "Europe",
+      "optC": "Australia",
+      "optD": "South America"
     },
     {
       "question": "Who is Nigeria’s current Senate President?",
