@@ -1,5 +1,38 @@
 {
   "questions": [
+    {},
+    {
+      "id": "34",
+      "question": "Prophet Muhammad got married to Khadijah when she was _______ of age",
+      "optA": "40 years",
+      "optB": "240 years",
+      "optC": "45 years",
+      "optD": "30 years"
+    },
+    {
+      "id": "34",
+      "question": "A person who performs Ifrad is known as __________",
+      "optA": "Marij",
+      "optB": "Al-mufrid",
+      "optC": "Al-Zaahid",
+      "optD": "Al-Qorin"
+    },
+    {
+      "id": "32",
+      "question": "Forenoon prayer is also known as ________",
+      "optA": ".Solatul Istiqah",
+      "optB": "Solatul Zuhr",
+      "optC": "Solatul Kusuf",
+      "optD": "Solatul Duha"
+    },
+    {
+      "id": "31",
+      "question": "Suratul Ma’un is a _________ surah.",
+      "optA": "Arabian",
+      "optB": "Israelite",
+      "optC": "Makanite",
+      "optD": "Medinite"
+    },
     {
       "id": "30",
       "question": "Zakat is paid __________ in a year",
