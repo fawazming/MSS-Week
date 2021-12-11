@@ -347,19 +347,35 @@
     },
     {
       "id": "23",
-      "question": "When did Nigeria cut ties with Israel diplomatically?"
+      "question": "When did Nigeria cut ties with Israel diplomatically?",
+      "optA": "2000",
+      "optB": "1972",
+      "optC": "2010",
+      "optD": "2019"
     },
     {
       "question": "What is Africa’s tallest mountain?",
-      "id": "22"
+      "id": "22",
+      "optA": "Mount Kilimanjaro",
+      "optB": "Mount Everest",
+      "optC": "Burj Khalifah",
+      "optD": "Eiffel Tower"
     },
     {
       "id": "21",
-      "question": "What does the abbreviation ECOMOG stand for?"
+      "question": "What does the abbreviation ECOWAS stand for?",
+      "optA": "Economic Commission of West African States",
+      "optB": "Economic Community of West African States",
+      "optC": "Energy Conversion of Water and Sun",
+      "optD": "Energy Convension of Water and Sun"
     },
     {
       "question": "Who is Nigeria’s Education Minister?",
-      "id": "20"
+      "id": "20",
+      "optA": "Lai Muhammad",
+      "optB": "Nyesom Wike",
+      "optC": "Adamu Adamu",
+      "optD": "Zainab Ahmed"
     },
     {
       "question": "Who is the current Governor of Nigeria’s Central Bank?",
