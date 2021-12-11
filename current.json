@@ -507,15 +507,27 @@
     },
     {
       "id": "3",
-      "question": "What is the world’s most populous country?"
+      "question": "What is the world’s most populous country?",
+      "optA": "Nigeria",
+      "optB": "Russia",
+      "optC": "America",
+      "optD": "China"
     },
     {
       "question": "What is the name of Nigeria’s current Chief Justice?",
-      "id": "2"
+      "id": "2",
+      "optA": "Justice Olukayode Ariwoola",
+      "optB": "Justice Mary Ukaego Peter-Odili",
+      "optC": "Justice Ibrahim Tanko Muhammad",
+      "optD": "Justice Bola Ajibola"
     },
     {
       "question": "Nigerians now celebrate Democracy Day when?",
-      "id": "1"
+      "id": "1",
+      "optA": "June 12",
+      "optB": "May 29",
+      "optC": "May 27",
+      "optD": "October 1"
     }
   ]
 }
