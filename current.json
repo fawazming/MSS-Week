@@ -2,7 +2,8 @@
   "questions": [
     {
       "id": "82",
-      "question": "Who was the first Nigerian to get the Nobel Peace Prize?"
+      "question": "Who was the first Nigerian to get the Nobel Peace Prize?",
+      "optA": ""
     },
     {
       "question": "What was Nigeria’s first television station?",
@@ -130,19 +131,35 @@
     },
     {
       "id": "50",
-      "question": "In Nigeria, who was known as the “King of Afro Beat”?"
+      "question": "In Nigeria, who was known as the “King of Afro Beat”?",
+      "optA": "Fela Kuti",
+      "optB": "Tony Allen",
+      "optC": "Burna Boy",
+      "optD": "Seun Kuti"
     },
     {
       "question": "When was Nigeria’s first refinery built?",
-      "id": "49"
+      "id": "49",
+      "optA": "1964",
+      "optD": "1960",
+      "optB": "1963",
+      "optC": "1965"
     },
     {
       "question": "How long does it take for the earth to rotate once?",
-      "id": "48"
+      "id": "48",
+      "optA": "30 days",
+      "optB": "29 days",
+      "optC": "Every Leap year",
+      "optD": "365 days"
     },
     {
       "id": "47",
-      "question": "Who is the current Chairman of INEC?"
+      "question": "Who is the current Chairman of INEC?",
+      "optA": "Prof. Momoh",
+      "optB": "Prof. Yemi Osibajo",
+      "optC": "Prof Mahmood Yakubu",
+      "optD": "Prof. Attahiru Jega"
     },
     {
       "id": "46",
