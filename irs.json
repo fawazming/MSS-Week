@@ -1,6 +1,30 @@
 {
   "questions": [
     {
+      "id": "30",
+      "question": "Zakat is paid __________ in a year",
+      "optA": "once",
+      "optB": "thrice",
+      "optC": "twice",
+      "optD": "quarterly"
+    },
+    {
+      "id": "29",
+      "question": "__________ and ________ will appear to humanbeing inside the grave",
+      "optA": "Angel Munkar and Nakir",
+      "optB": "Angel Isrofil and Jubril",
+      "optC": "Angel Roqeeb and Ateed",
+      "optD": "Angel Ridwan and Malik"
+    },
+    {
+      "id": "28",
+      "question": "There are ______ obligatory acts of Solat",
+      "optA": "12",
+      "optB": "7",
+      "optC": "13",
+      "optD": "17"
+    },
+    {
       "id": "27",
       "question": "Bath of a dead person is known as __________",
       "optA": "Ghuslul Janabah",
