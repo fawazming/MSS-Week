@@ -171,19 +171,35 @@
     },
     {
       "id": "45",
-      "question": "Who was the first woman to be elected governor of Nigeria?"
+      "question": "Who was the first woman to be elected governor of Nigeria?",
+      "optA": "Mrs. Ngozi Okonjo-Iweala",
+      "optC": "Mrs. Virginia Ngozi Etiaba",
+      "optB": "Mrs Tolulope Arotile",
+      "optD": "Chief Funmilayo Ransome-Kuti"
     },
     {
       "id": "44",
-      "question": "Which Nigerian state has the fewest local government areas (LGAs)?"
+      "question": "Which Nigerian state has the fewest local government areas (LGAs)?",
+      "optA": "Abuja",
+      "optB": "Kano",
+      "optC": "Ogun",
+      "optD": "Benue"
     },
     {
-      "question": "Who is Nigeria’s current Chief Justice?",
-      "id": "43"
+      "question": "Who was Nigeria’s longest-serving Senate President?",
+      "id": "43",
+      "optA": "Ibrahim Tanko Muhammed",
+      "optB": "Namadi Sambo",
+      "optC": "David Mark",
+      "optD": "Lai Muhammad"
     },
     {
       "id": "42",
-      "question": "Who is Nigeria’s current Chief Justice?"
+      "question": "Who is Nigeria’s current Chief Justice?",
+      "optA": "Ibrahim Tanko Muhammed",
+      "optB": "Namadi Sambo",
+      "optC": "David Mark",
+      "optD": "Lai Muhammed"
     },
     {
       "question": "Who is the NNPC’s current managing director?",
