@@ -339,7 +339,11 @@
     },
     {
       "id": "24",
-      "question": "Who was the founder of the Nigerian Council?"
+      "question": "Who was the founder of the Nigerian Council?",
+      "optA": "Frederick Lugard",
+      "optB": "Hugh Clifford",
+      "optC": "John Macpherson",
+      "optD": "Richard Author"
     },
     {
       "id": "23",
