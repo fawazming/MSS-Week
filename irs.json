@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "39",
+      "question": "Prophet Muhammad (S.A.W) performed ________ Hajj",
+      "optA": "2",
+      "optB": "1",
+      "optC": "13",
+      "optD": "11"
+    },
+    {
       "id": "38",
       "question": "Prophet Muhammad (S.A.W) was _________ years when his wife died",
       "optA": "Fifty years",
