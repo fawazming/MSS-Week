@@ -163,7 +163,11 @@
     },
     {
       "id": "46",
-      "question": "What does the acronym NUPENA means?"
+      "question": "What does the acronym NUPENA means?",
+      "optB": "National Union of Petroleum Engineers and Natural Gas Workers",
+      "optA": "National Union of Petroleum Engineers National Association",
+      "optC": "National Union of Petroleum and Natural Gas Workers",
+      "optD": "National Union of Petroleum and Natural Gasess"
     },
     {
       "id": "45",
