@@ -1,6 +1,21 @@
 {
   "questions": [
-    {},
+    {
+      "id": "36",
+      "question": "The sacred mosque in Jerusalem is known as ____________",
+      "optA": "Masjidul Kuba",
+      "optB": "Masjidul Kuba",
+      "optC": "Masjidul Haram",
+      "optD": "Masjidun Nabawy"
+    },
+    {
+      "id": "36",
+      "question": "Hajarul Aswad refers to ___________",
+      "optA": "Gold minaret",
+      "optB": "Black pebbles",
+      "optC": "Black stone",
+      "optD": "White dome"
+    },
     {
       "id": "34",
       "question": "Prophet Muhammad got married to Khadijah when she was _______ of age",
