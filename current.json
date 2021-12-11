@@ -379,39 +379,75 @@
     },
     {
       "question": "Who is the current Governor of Nigeria’s Central Bank?",
-      "id": "19"
+      "id": "19",
+      "optA": "Charles Soludo",
+      "optB": "Godwin Emefiele",
+      "optC": "Sanusi Lamido",
+      "optD": "John Momoh"
     },
     {
       "id": "18",
-      "question": "Who is the present caliph of Sokoto, the Sultan of Sokoto?"
+      "question": "Who is the present caliph of Sokoto, the Sultan of Sokoto?",
+      "optA": "Muhammadu Sa'ad Abubakar",
+      "optB": "Muhammad Umar",
+      "optC": "Mai Bornu",
+      "optD": "Aliu Dan Kasa"
     },
     {
       "id": "17",
-      "question": "Who was the first Inspector General of Police in Nigeria?"
+      "question": "Who was the first Inspector General of Police in Nigeria?",
+      "optA": "Louis Edet",
+      "optB": "Mohammed Adamu",
+      "optC": "Usman Alkali Baba",
+      "optD": "Abba Kyari"
     },
     {
       "id": "16",
-      "question": "What is the meaning of the acronym ICAO?"
+      "question": "What is the meaning of the acronym ICAO?",
+      "optA": "International Civil Aviation Organization",
+      "optB": "International Construction Aviation Organization",
+      "optC": "Internal Civil Aviation Organization",
+      "optD": "Inter Countries Aviation Organization"
     },
     {
       "id": "15",
-      "question": "What is the name of a 70th anniversary?"
+      "question": "What is the name of a 70th anniversary?",
+      "optA": "Bronze",
+      "optB": "Gold",
+      "optC": "Platinum",
+      "optD": "Silver"
     },
     {
       "id": "14",
-      "question": "Who was Africa’s first Archbishop?"
+      "question": "Who is the present Inspector General of Police?",
+      "optA": "Abba Kyari",
+      "optB": "Louis Edet",
+      "optC": "Usman Alkali Baba",
+      "optD": "Mohammed Adamu"
     },
     {
       "id": "13",
-      "question": "What does the blue in the Nigerian Police flag stand for?"
+      "question": "What does the blue in the Nigerian Police flag stand for?",
+      "optA": "Water, Wealth, Togetherness",
+      "optB": "Love, Peace",
+      "optC": "Pride and Strength",
+      "optD": "Love, Loyalty, togetherness"
     },
     {
       "id": "12",
-      "question": "Who was Nigeria’s first president?"
+      "question": "Who was Nigeria’s first president?",
+      "optA": "Dr. Nnamdi Azikwe",
+      "optB": "Alh. Tafawa Balewa",
+      "optC": "Chief Obafemi Awolowo",
+      "optD": "Gen. Muritala Muhammad"
     },
     {
       "id": "11",
-      "question": "Who is Nigeria’s Power Minister?"
+      "question": "Who is Nigeria’s Power Minister?",
+      "optA": "Mr. Abubakar Aliyu",
+      "optB": "Mr. Mamman Kwagyang Saleh",
+      "optC": "Mr. Babatunde Fashola",
+      "optD": "President Muhammadu Buhari"
     },
     {
       "id": "10",
