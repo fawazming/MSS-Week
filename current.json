@@ -451,31 +451,59 @@
     },
     {
       "id": "10",
-      "question": "Who was the world’s first English dictionary author?"
+      "question": "Who was the world’s first English dictionary author?",
+      "optA": "Mr. Samuel Johnson",
+      "optB": "Mr Cambridge John",
+      "optC": "George Bush",
+      "optD": "Barack Obama"
     },
     {
       "id": "9",
-      "question": "Who is Nigeria’s current House of Representatives Speaker?"
+      "question": "Who is Nigeria’s current House of Representatives Speaker?",
+      "optA": "Yakubu Dogara",
+      "optB": "Ahmad Lawan",
+      "optC": "Femi Gbajabiamila",
+      "optD": "Bukola Saraki"
     },
     {
       "question": "What African country was the first to declare independence?",
-      "id": "8"
+      "id": "8",
+      "optA": "Liberia",
+      "optB": "Nigeria",
+      "optC": "Ethopia",
+      "optD": "Angola"
     },
     {
       "id": "7",
-      "question": "Who is the current ECOWAS chairman?"
+      "question": "Who is the current ECOWAS chairman?",
+      "optA": "President Dankwa Akufo-Addo",
+      "optB": "President Muhama don Issoufou",
+      "optC": "Kadré Désiré Ouédraogo",
+      "optD": "Gnassingbé Eyadéma"
     },
     {
       "question": "What is the world’s second-largest continent?",
-      "id": "6"
+      "id": "6",
+      "optA": "Africa",
+      "optB": "Asia",
+      "optC": "Australia",
+      "optD": "North America"
     },
     {
-      "question": "What is the name of Nigeria’s Inspector General of Police?",
-      "id": "5"
+      "question": "What is the world’s largest continent?",
+      "id": "5",
+      "optA": "Africa",
+      "optB": "Asia",
+      "optC": "Australia",
+      "optD": "North America"
     },
     {
       "question": "Who was the first female psychiatrist in Nigeria?",
-      "id": "4"
+      "id": "4",
+      "optB": "Dr. Bertha Johnson",
+      "optA": "Dr Ben Carson",
+      "optC": "Dr Patrick Sawyer",
+      "optD": "Dr. Ngozi Iweala"
     },
     {
       "id": "3",
