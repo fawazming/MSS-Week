@@ -323,11 +323,19 @@
     },
     {
       "question": "Who is Nigeria’s current Senate President?",
-      "id": "26"
+      "id": "26",
+      "optB": "Ahmed Ibrahim Lawan",
+      "optA": "Femi Gbagabiamila",
+      "optC": "David Mark",
+      "optD": "Bukola Saraki"
     },
     {
       "id": "25",
-      "question": "With which Western nation does Nigeria share borders?"
+      "question": "With which Western nation does Nigeria share borders?",
+      "optA": "Cote d'ivoire",
+      "optB": "Ghana",
+      "optC": "Cotonue",
+      "optD": "Benin Republic"
     },
     {
       "id": "24",
