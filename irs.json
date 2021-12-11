@@ -1,6 +1,38 @@
 {
   "questions": [
     {
+      "id": "27",
+      "question": "Bath of a dead person is known as __________",
+      "optA": "Ghuslul Janabah",
+      "optB": "Ghuslul Haidoh",
+      "optC": "Ghuslul Nifas",
+      "optD": "Ghuslul Janazah"
+    },
+    {
+      "id": "26",
+      "question": "________ is an act of associating partner with Allah.",
+      "optA": "Al- ‘Ibaadah",
+      "optB": "At- teslim",
+      "optC": "Ash- Shirk",
+      "optD": "Al- giibah"
+    },
+    {
+      "id": "25",
+      "question": "The name of the prophet that preached for 950 years is _________",
+      "optA": "Prophet Nuh (A.S)",
+      "optB": "Prophet Ibrahim (A.S)",
+      "optC": "Prophet Adam (A.S)",
+      "optD": "Prophet Musa (A.S)"
+    },
+    {
+      "id": "24",
+      "question": "The fourth caliph in Islam is _________",
+      "optA": "Abu bakr",
+      "optB": "Aliy",
+      "optC": "Umar",
+      "optD": "Uthman"
+    },
+    {
       "id": "23",
       "question": "__________ means the direction of Ka’bah",
       "optA": "Hidaayah",
