@@ -1,6 +1,38 @@
 {
   "questions": [
     {
+      "id": "23",
+      "question": "__________ means the direction of Ka’bah",
+      "optA": "Hidaayah",
+      "optB": "toriq",
+      "optC": "sabiil",
+      "optD": ". Kiblah"
+    },
+    {
+      "id": "22",
+      "question": "The second month in hijrah calendar is ________",
+      "optA": "safar",
+      "optB": "February",
+      "optC": "Ramadan",
+      "optD": "Muharram"
+    },
+    {
+      "id": "21",
+      "question": "_______________ is the total number of prophets.",
+      "optA": "123,687",
+      "optB": "24,000",
+      "optC": "24",
+      "optD": "124,000"
+    },
+    {
+      "id": "20",
+      "question": "________________ was the first messenger of Allah.",
+      "optA": "Prophet Musa (A.S)",
+      "optB": "Prophet Adam (A.S)",
+      "optC": "Prophet Nuh (A.S)",
+      "optD": "Prophet Ibrahim (A.S)"
+    },
+    {
       "id": "19",
       "question": ". A divorce at the instance of the Court is known as",
       "optA": "zihar",
