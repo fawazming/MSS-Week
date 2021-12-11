@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "id": "38",
+      "question": "Prophet Muhammad (S.A.W) was _________ years when his wife died",
+      "optA": "Fifty years",
+      "optB": "Thirty five years",
+      "optC": "Fifty five years",
+      "optD": "Forty three years"
+    },
+    {
       "id": "37",
       "question": "___________ was the first person to call Adhan in Islam",
       "optA": "Bilal bn Robaa",
